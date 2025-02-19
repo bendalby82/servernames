@@ -125,6 +125,49 @@
       "id": 29,
       "name": "lamp"
     }     
+    ,{
+      "id": 30,
+      "name": "walnut"
+    }     
+    ,{
+      "id": 31,
+      "name": "chocolate"
+    }     
+    ,{
+      "id": 32,
+      "name": "dim"
+    }      
+    ,{
+      "id": 33,
+      "name": "gray"
+    }
+    ,{
+      "id": 34,
+      "name": "leather"
+    }
+    ,{
+      "id": 35,
+      "name": "grease"
+    }
+    ,{
+      "id": 36,
+      "name": "basalt"
+    }
+    ,{
+      "id": 37,
+      "name": "denim"
+    } 
+    ,{
+      "id": 38,
+      "name": "vampire"
+    }  
+    ,{
+      "id": 39,
+      "name": "panda"
+    }
+    ,{
+      "id": 40,
+      "name": "cool"
+    }
   ]
-  
 }
